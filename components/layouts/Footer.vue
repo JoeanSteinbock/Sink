@@ -86,7 +86,7 @@ onMounted(() => {
         </a>
 
         <a
-          href=#"
+          href="#"
           target="_blank"
           title="GitHub"
           class="text-gray-400 hover:text-gray-500"
