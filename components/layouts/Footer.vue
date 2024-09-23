@@ -19,6 +19,7 @@ onMounted(() => {
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
         href="https://html.zone"
         target="_blank"
+        rel="noreferrer"
         title="HTML.ZONE"
       >
         &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
@@ -28,7 +29,7 @@ onMounted(() => {
       >
         <a
           ref="email"
-          href="mailto:sink.cool$miantiao.me"
+          href="#"
           title="Email"
           class="text-gray-400 hover:text-gray-500"
         >
@@ -38,7 +39,7 @@ onMounted(() => {
           />
         </a>
         <a
-          href="https://t.me/htmlzone"
+          href="#"
           target="_blank"
           title="Telegram"
           class="text-gray-400 hover:text-gray-500"
@@ -49,7 +50,7 @@ onMounted(() => {
           />
         </a>
         <a
-          href="https://mt.ci"
+          href="#"
           target="_blank"
           title="Blog"
           class="text-gray-400 hover:text-gray-500"
@@ -61,7 +62,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://x.com/0xKaiBi"
+          href="#"
           target="_blank"
           title="Twitter"
           class="text-gray-400 hover:text-gray-500"
@@ -73,7 +74,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://miantiao.me/@chi"
+          href="#"
           target="_blank"
           title="Mastodon"
           class="text-gray-400 hover:text-gray-500"
@@ -85,7 +86,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://github.com/ccbikai"
+          href=#"
           target="_blank"
           title="GitHub"
           class="text-gray-400 hover:text-gray-500"
